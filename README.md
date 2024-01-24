@@ -19,8 +19,6 @@ This is a practice project game called Mini Tic Tac Toe in React.
 - CSS
 - Vite
 
----
-
 ## 🔧 Techniques:
 
 - Two-Way Binding
@@ -28,5 +26,7 @@ This is a practice project game called Mini Tic Tac Toe in React.
 - Deriving & Sharing states across components
 - Lifting computed values up
 - Deriving computed Values from other computed values
+
+---
 
 **`Shoutout to Maximilian Schwarzmüller for this project, the exercises and for the React course in Udemy.`**
