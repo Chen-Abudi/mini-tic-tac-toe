@@ -2,21 +2,31 @@
 
 Developed by Grace Chen Abudi 👩🏽‍💻
 
-## Overview
+## 📢 Overview:
 
 - Intro
-- Technologies & Techniques
+- Technologies
+- Techniques
 
-## Intro
+## 🔎 Intro:
 
 This is a practice project game called Mini Tic Tac Toe in React.
 
-## Technologies & Techniques
+## 🛠️ Technologies:
 
 - React
 - JavaScript
+- CSS
+- Vite
+
+---
+
+## 🔧 Techniques:
+
 - Two-Way Binding
 - Lifting State Up
-- Deriving & sharing states across components
+- Deriving & Sharing states across components
+- Lifting computed values up
+- Deriving computed Values from other computed values
 
 **`Shoutout to Maximilian Schwarzmüller for this project, the exercises and for the React course in Udemy.`**
