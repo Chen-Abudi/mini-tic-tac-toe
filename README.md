@@ -10,13 +10,13 @@ Developed by Grace Chen Abudi 👩🏽‍💻
 
 ## 🔎 Intro:
 
-This is a practice project game called Mini Tic Tac Toe in React.
+This is a practice project showcases a game called Mini Tic Tac Toe in React.
 
 ## 🛠️ Technologies:
 
 - React
 - JavaScript
-- CSS
+- CSS3
 - Vite
 
 ## 🔧 Techniques:
@@ -29,4 +29,4 @@ This is a practice project game called Mini Tic Tac Toe in React.
 
 ---
 
-**`Shoutout to Maximilian Schwarzmüller for this project, the exercises and for the React course in Udemy.`**
+**`Shoutout to Maximilian Schwarzmüller for the lectures, the exercises and for the React course in Udemy. Mahalo, Thank You!`**
