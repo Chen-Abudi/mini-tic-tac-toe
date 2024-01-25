@@ -7,8 +7,8 @@ Developed by Grace Chen Abudi 👩🏽‍💻
 - Intro
 - Technologies
 - Techniques
-- How to start
-- Additional link
+- How to Get Started
+- Additional Link
 
 ## 🔎 Intro:
 
