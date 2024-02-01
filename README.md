@@ -31,21 +31,47 @@ This is a practice project showcases a game called Mini Tic Tac Toe in React.
 
 ---
 
-# **👩‍💻👨‍💻 How to Get Started**:
+# ✨ How to Get Started
 
-**Clone**
+## Clone Project:
 
-**`$ git clone https://github.com/Chen-Abudi/mini-tic-tac-toe.git`**
+```bash
 
-**Install**
+git clone https://github.com/Chen-Abudi/mini-tic-tac-toe.git
 
-**`$ cd mini-tic-tac-toe`**
+```
 
-**`$ npm i or npm install`**
+## Enter the project directory:
 
-**Launch**
+```bash
 
-**`$ npm run dev`**
+cd mini-tic-tac-toe
+
+```
+
+## Install the Dependencies:
+
+```bash
+
+npm install
+
+```
+
+or in short
+
+```bash
+
+npm i
+
+```
+
+## Launch:
+
+```bash
+
+npm run dev
+
+```
 
 ---
 
